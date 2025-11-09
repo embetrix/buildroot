@@ -308,6 +308,7 @@ F:	package/python-canopen/
 
 N:	Ayoub Zaki <ayoub.zaki@embetrix.com>
 F:	package/bmap-writer/
+F:	boot/systemd-boot/
 
 N:	Bagas Sanjaya <bagasdotme@gmail.com>
 F:	package/git/
